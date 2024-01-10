@@ -1,0 +1,3 @@
+Link: https://community.deeplearning.ai/c/course-q-a/machine-learning-specialization/221
+username: lamthainguyen
+password: <usual_password>
