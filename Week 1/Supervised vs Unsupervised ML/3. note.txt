@@ -1,0 +1,17 @@
+1. Classification
+
+Breast cancer detection is an example of Classification
+The model predicts whether a tumor is 
+either malignant: cancerous
+or benign: non-cancerous
+
+The difference of Classification from Regression is that:
+The Classification model only tries to predict 1 answer out of "limited choices/answers/possibilities"
+while Regression tries to predict 1 answer out of infinite answers
+
+2. In Classification, the term "output classes" and "output categories" are used interchangeably
+
+3. In conclusion, Classification model predicts categories (cat or dog, malignant or benign, 0 or 1 or 2, etc.)
+Classification model predicts one answer out of a small number of possible values.
+
+4. Classification algorithm can take in multiple inputs (e.g. 'age' and 'tumor size' --> 'malignant' or 'benign')
