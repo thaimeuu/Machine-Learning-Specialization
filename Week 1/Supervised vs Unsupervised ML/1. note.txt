@@ -1,0 +1,11 @@
+1. What is machine learning?
+
+is a field of study that gives computer the ability to learn without being explicitly programmed
+
+2. Machine learning algorithms?
+
+two main types are: 'Supervised learning' and 'Unsupervised learning'
+two other types are: "recommender systems" and "reinforcement learning"
+
+Supervised learning is used most in real-world applications
+

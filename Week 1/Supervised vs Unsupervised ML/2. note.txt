@@ -1,0 +1,9 @@
+1. Supervised learning is an algorithm which learns from being given "correct answers" (labelled dataset), 
+and finally gives us the reasonable answer for unlabelled data.
+
+2. Regression
+
+Housing price prediction is an example of Regression
+Fitting a straight line, a curve or a complicated function is an example of Regression
+
+Regression is to predict a number out of infinite possible numbers 
