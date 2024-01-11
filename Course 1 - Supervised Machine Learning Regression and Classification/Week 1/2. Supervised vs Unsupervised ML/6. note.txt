@@ -1,2 +1,1 @@
-1. The most widely used tool by Machine Learning and data science practitioners
-today is the Jupyter Notebook
+1. The most widely used tool by Machine Learning and data science practitioners today is the Jupyter Notebook

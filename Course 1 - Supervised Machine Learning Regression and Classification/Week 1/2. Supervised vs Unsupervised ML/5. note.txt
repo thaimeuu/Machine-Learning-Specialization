@@ -3,5 +3,4 @@
 Anomaly detection: Used to detect unusual events (datapoints)
 Useful in fraud detection in the financial system
 
-Dimensionality reduction: Compress data to a much smaller dataset without
-losing too much information
+Dimensionality reduction: Compress data to a much smaller dataset without losing too much information
