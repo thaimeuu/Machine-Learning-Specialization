@@ -1,0 +1,20 @@
+1. How a Regression model works?
+
+- feed training set to algorithm
+- algorithm gives function f
+- function f takes in "input x" and returns "output y-hat" (y with hat)
+
+2. In machine learning convention, y-hat is the prediction for y.
+
+- The function f is called the model
+- x is called input feature
+- y without hat is a true value, an actual value in the dataset
+- y-hat is called prediction (may or may not be the true value)
+
+3. How to represent f function? What kind of math to compute f?
+
+- Assume f is a straight line:
+    We have f_w,b(x) = wx+b  (_ denotes a SUBSCRIPT of f) (w and b are numbers)
+    f_w,b(x) takes in x and returns y-hat.
+    --> This f function is called "a LINEAR REGRESSION MODEL with ONE variable - feature x"
+    --> Other name: UNIVARIATE LINEAR REGRESSION

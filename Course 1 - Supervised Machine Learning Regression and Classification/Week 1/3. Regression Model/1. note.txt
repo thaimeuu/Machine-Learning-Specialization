@@ -1,0 +1,13 @@
+1. Linear Regression 
+
+is the most widely used algorithm nowadays
+it means fitting a straight line to your data
+Regression model always predicts number (unlike Classification model which predicts categories)
+
+2. ML Terminology
+
+- Training set: Dataset used to train the model 
+    + input variable --> x/input/feature/input feature
+    + output variable --> y/output/target/output target
+    + number of training examples --> m
+    + single training example --> (x, y) or (x(i), y(i)) where (i) is a SUPERSCRIPT and i denotes the index
