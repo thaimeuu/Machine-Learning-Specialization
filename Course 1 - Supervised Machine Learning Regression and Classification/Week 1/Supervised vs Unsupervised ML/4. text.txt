@@ -1,0 +1,5 @@
+1. In unsupervised learning, the algorithms try to find different patterns
+out of the dataset, then group data of the same pattern into a cluster
+
+2. Clustering is one type of unsupervised learning algorithms.
+It takes unlabelled data and tries to automatically group them into clusters
