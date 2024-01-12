@@ -1,0 +1,7 @@
+1. Recap:
+
+- linear regression model: f(x) = wx+b
+- parameters: w,b
+- cost function: J=1/2m * sum[(f(x(i)) - y(i))^2] for i in range(1, m+1)
+    J calculates the error between our predictions and the true values
+- goal: minimize J
