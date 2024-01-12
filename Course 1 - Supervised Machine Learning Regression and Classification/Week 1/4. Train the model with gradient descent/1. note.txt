@@ -1,0 +1,19 @@
+1. Gradient descent 
+
+is used all over machine learning, not only in Linear Regression to find the values of w and b
+can be used to minimized any cost function, not only Linear Regression model's cost function
+
+2. How Gradient descent works?
+
+- Starts by guessing w and b (e.g. w=0, b=0)
+- Keep changing w,b to reduce J(w,b)
+- Settle at or near a minimum
+
+An example:
+Imagine you are at a golf course with many hills and valleys, you initialize w and b 
+and now you are standing on the hill. Your goal is to look around 360 degrees each time you want to take a step 
+and then you take one step towards the direction that you find the most efficient to get to the valley. 
+Iteratively look around and take a step until you reach the valley (local minima)
+--> That is how Gradient descent works
+
+Note that each initial position may lead to different local minima, hence different J value
