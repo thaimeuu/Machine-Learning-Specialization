@@ -1,0 +1,10 @@
+1. Gradient descent algorithm
+
+w = w - alpha * dJ/dw
+where: alpha is the learning rate (determines how big of a step you take)
+
+b = b - alpha * dJ/db
+
+This procedures continue until the algorithm converges, meaning w,b doesn't change or change only a little bit
+
+Note: w and b should be simultaneously updated in each step
