@@ -1,0 +1,7 @@
+1. If the learning rate alpha is too small
+
+the algorithm works but converges slowly
+
+2. If alpha is too large,
+
+the algorithm may overshoot and never reach minimum
