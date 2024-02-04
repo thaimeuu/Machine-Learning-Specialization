@@ -9,7 +9,7 @@ Start date: Jan 10, 2024
    - Week 3: Classification (Finished on Jan 24)
 2. `Advanced Learning Algorithms` (Jan 25 - Feb...)
    - Week 1: Neural Networks (Finished on Jan 29)
-   - Week 2: Neural Network Training
+   - Week 2: Neural Network Training (Finished on Feb 4)
    - Week 3: Advice for applying Machine Learning
    - Week 4: Decision Tree
 3. `Unsupervised Learning, Recommenders, Reinforcement Learning`
