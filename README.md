@@ -14,7 +14,7 @@
    - Week 4: Decision Tree **(Finished on Feb 18)**
 3. `Unsupervised Learning, Recommenders, Reinforcement Learning` **(Feb 19 - Mar ...)**
    - Week 1: Unsupervised Learning **(Finished on Feb 25)**
-   - Week 2: Recommender Systems **(Finished on ...)**
+   - Week 2: Recommender Systems **(Finished on Mar 4)**
    - Week 3: Reinforcement Learning **(Finished on ...)**
 
 `End date`: Mar ..., 2024
