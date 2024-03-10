@@ -12,9 +12,9 @@
    - Week 2: Neural Network Training **(Finished on Feb 4)**
    - Week 3: Advice for applying Machine Learning **(Finished on Feb 15)**
    - Week 4: Decision Tree **(Finished on Feb 18)**
-3. `Unsupervised Learning, Recommenders, Reinforcement Learning` **(Feb 19 - Mar ...)**
+3. `Unsupervised Learning, Recommenders, Reinforcement Learning` **(Feb 19 - Mar 10: 20 days)**
    - Week 1: Unsupervised Learning **(Finished on Feb 25)**
    - Week 2: Recommender Systems **(Finished on Mar 4)**
    - Week 3: Reinforcement Learning **(Finished on Mar 10)**
 
-`End date`: Mar 10, 2024. What a journey.
+`End date`: Mar 10, 2024 (60 days). What a journey.
