@@ -15,6 +15,6 @@
 3. `Unsupervised Learning, Recommenders, Reinforcement Learning` **(Feb 19 - Mar ...)**
    - Week 1: Unsupervised Learning **(Finished on Feb 25)**
    - Week 2: Recommender Systems **(Finished on Mar 4)**
-   - Week 3: Reinforcement Learning **(Finished on ...)**
+   - Week 3: Reinforcement Learning **(Finished on Mar 10)**
 
-`End date`: Mar ..., 2024
+`End date`: Mar 10, 2024. What a journey.
